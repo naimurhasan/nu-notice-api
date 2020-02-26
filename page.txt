@@ -1,0 +1,712 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>National University |  Bangladesh  : :  জাতীয় বিশ্ববিদ্যালয়  |  বাংলাদেশ</title>
+  <link rel="stylesheet" href="assets/css/jquery.dataTables.min.css">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!-- Custom style CSS -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!-- Tabs style CSS -->
+  <link rel="stylesheet" href="assets/css/tabs.css">
+  <!-- slider add -->
+  <link rel="stylesheet" href="assets/css/style3.css">
+  <!-- carousel add -->
+  <link rel="stylesheet" href="assets/css/owl.carousel.css">
+  <!-- .theme add -->
+  <link rel="stylesheet" href="assets/css/owl.theme.css">
+  <!-- font-awesome css -->
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.css">
+  <link rel="stylesheet" href="assets/css/jquery.bxslider.min.css">
+  <link rel="stylesheet" href="assets/css/jquery.dataTables.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <!--  Gallery Start -->
+  <link href="assets/css/nextgen_basic_thumbnails.min.css" rel="stylesheet">
+  <!-- Gallery end -->
+   <!-- Nav Manu Start -->
+  <link href="assets/css/animate.css" rel="stylesheet">
+  <link href="assets/css/bootsnav.css" rel="stylesheet">
+  <link href="assets/css/navstyle.css" rel="stylesheet">
+  <link href="assets/css/nextgen_basic_album.min.css" rel="stylesheet">
+ <!-- Nav Manu End -->
+ <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+ <!-- Favicon add -->
+ <!--[if IE]>
+<link rel="stylesheet" type="text/css" href="style-ie.css" />
+<![endif]-->
+ <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body class="nu-innerpages" oncontextmenu="return false">
+ <div class="wrapper-outer-pages">
+  <div class="header-super-box affix-top" data-spy="affix" data-offset-top="564">
+  <header class="top-box">
+   <div class="container">
+      <div class="row" style="padding-bottom:10px;">
+      <div class="col-md-8 col-sm-8 col-xs-12">
+          <div class="row">
+            <div class="col-md-2 col-xs-12">
+              <div id="logo" style="width:100%;text-align:left;">
+                 <a href="index.php"><img src="assets/images/logo.png" style="margin-right:0px;" alt="National University Bangladesh" data-retina="true" title="National University Bangladesh"></a></div>
+               </div>
+              <div class="col-md-10 col-xs-12">
+                <div class="top-header-box">
+                     <h2>জাতীয় বিশ্ববিদ্যালয়</h2> 
+                     <h3>National University Bangladesh</h3>
+               </div>
+             </div>
+        </div>
+     </div>
+     <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="header-rightside">
+               <ul>
+                  <li><a href="index.php">Home</a></li>
+                 <li><a target="_Blank" href="https://mail.nu.edu.bd/">Webmail</a></li>
+                 <li><a href="faq.php">FAQ</a></li>
+                 <li><a target="_blank" href="http://www.nu.ac.bd/results/">Results</a></li>
+                 <li><a href="contact.php">Contact</a></li>
+               </ul>
+               </div>
+          </div>
+        </div>
+      </div>
+     <div class="main-nav row menu-outer-wrapper">
+      <div class="container">  
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <!-- Start Navigation -->
+       <nav class="navbar navbar-default bootsnav">
+        <!-- Start Top Search -->
+        <div class="top-search">
+            <div class="container">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                    <input type="text" class="form-control" placeholder="Search">
+                    <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+                </div>
+            </div>
+        </div>
+        <!-- End Top Search -->
+                  
+            <!-- Start Atribute Navigation -->
+            <!-- Start Header Navigation -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                    <i class="fa fa-bars"></i>
+                </button>
+            </div>
+            <!-- End Header Navigation -->
+            <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="nav navbar-nav" data-in="fadeInDown" data-out="fadeOutUp">
+          <li class="dropdown">
+            <a href="index.php" class="dropdown-toggle" data-toggle="dropdown" >About</a>
+                <ul class="dropdown-menu">
+                    <li><a href="message-from-the-vice-chancellor.php">Message from the Vice Chancellor</a></li>
+                    <li><a href="nu-brief-history.php">Brief History</a></li>
+                    <li><a href="vision-mission-strategy.php">Vision, Mission & Strategy</a></li>
+                    <li class="dropdown">
+                   <a href="nu-at-a-glance.php" class="dropdown-toggle" data-toggle="dropdown" >NU At a Glance</a>
+                <ul class="dropdown-menu">
+                  <li><a href="nu-at-a-glance.php">NU At a Glance</a></li>
+                  <li><a href="text-book-diary.php">Text Book/ Diary</a></li>
+                </ul>
+              </li>
+
+            </li>
+                    <li><a href="list-of-holidays.php">List of Holidays</a></li>
+                </ul>
+            </li>
+<!-- End Home -->
+            <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Governance</a>
+                <ul class="dropdown-menu">
+                  <li><a href="senate.php">Senate</a></li>
+                  <li><a href="syndicate.php">Syndicate</a></li>
+                  <li><a href="academic-council.php">Academic Council</a></li>
+                  <li><a href="finance-committee.php">Finance Committee</a></li>
+                  
+                </ul>
+            </li>
+<!-- Governance End -->
+<!-- Start administration  -->
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Administration</a>
+           <ul class="dropdown-menu">
+              <li><a href="vc-Dr.harun-or-rashid.php">Vice-Chancellor </a></li>
+              <li><a href="pro-professor-Dr.Md.moshiur-rahman.php">Pro-Vice Chancellor </a></li>
+              <li><a href="Pro-Vice-Chancellor-Prof.Dr.Hafiz.php">Pro-Vice Chancellor</a></li>
+              <li><a href="Treasurer-Professor-Md.Noman-UrRashid.php">Treasurer</a></li>
+              <!-- <li class="dropdown">
+                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Registrar</a>
+                   <ul class="dropdown-menu">
+                      <li><a href="Registrar-office.php">Registrar</a></li>
+                      <li><a href="nu-council.php">Council</a></li>
+                      <li><a href="legal-cell.php">Legal Cell</a></li>
+                      <li><a href="establishment-1.php">Establishment (1)</a></li>
+                      <li><a href="establishment-2.php">Establishment (2)</a></li>
+                      <li><a href="purchase.php">Purchase</a></li>
+                      <li><a href="store.php">Store</a></li>
+                      <li><a href="detch-patch.php">DetchPatch</a></li>
+                   </ul>
+              </li> -->
+          </ul>
+      </li>
+<!--   End administration -->
+  <li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Academic</a>
+    <ul class="dropdown-menu">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Dean Postgraduate</a>
+          <ul class="dropdown-menu">
+      <li><a href="dean-postgraduate.php">Dean Postgraduate</a></li>
+      <li class="dropdown">
+        <a  class="dropdown-toggle" data-toggle="dropdown"   href="">On Campus </a>
+        <ul class="dropdown-menu">
+          <li> <a href="mphil-ph.d.programme-unit.php" >M.phil & Ph.D awarded</a></li>
+          <li><a href="pg-mas.php">MAS</a></li>
+          <li><a href="pg-advanced-mba.php">Advanced MBA</a></li>
+          <li><a href="PGD-in-LIS.php">PGD in LIS</a></li>
+        </ul>
+      </li>
+      <li><a href="pg-Admission-Service.php">Admission Service</a></li>
+      <li><a href="pg-Duplication-Regi-Card-Service.php">Duplication Registration Card</a></li>
+      <li><a href="pg-Name-Correction-Service.php">Name Correction Service</a></li>
+      <li><a href="pg-Regi-Card-Correction-Service.php">Registration Card Correction</a></li>
+      <li><a href="pg-Migration-Service.php">Migration Service</a></li>
+      <li><a href="pg-Admission-Council-and-Relation.php">Admission Council and Relation</a></li>
+      </ul>
+   </li>
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Dean Undergraduate</a>
+          <ul class="dropdown-menu">
+            <li><a href="dean-ug.php">Dean Undergraduate</a></li>
+            <li><a href="http://www.nu.ac.bd/admissions" target="_Blank">Admission Service</a></li>
+            <li><a href="transfer-service.php">Transfer Service</a></li>
+            <li><a href="duplication-service.php">Duplication Registration Card</a></li>
+            <li><a href="name-correction-service.php">Name Correction Service</a></li>
+            <li><a href="regi-card-correction.php">Registration Card Correction </a></li>
+            <li><a href="migration-service.php">Migration Service</a></li>
+            <li><a href="admission-council-and-relation.php">Admission Council and Relation</a></li>
+          </ul>
+       </li>
+
+        <li><a href="dean-curriculum.php">Dean Curriculum</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" > NU Faculty</a>
+          <ul class="dropdown-menu">
+            <li><a href="faculty-of-arts.php">Faculty of Arts</a></li>
+            <li><a href="faculty-social-science.php">Faculty of Social Science</a></li>
+            <li><a href="faculty-of-science.php">Faculty of Science</a></li>
+            <li><a href="faculty-business-studies.php">Faculty of Business Studies</a></li>
+            <li><a href="faculty-life-earth-science.php">Faculty of Life & Earth science</a></li>
+          </ul>
+       </li>
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >On Campus Program</a>
+         <ul class="dropdown-menu">
+            <li><a href="on-campus-program.php">On Campus Program</a></li>
+            <li><a href="present-status.php">Present Status</a></li>
+         </ul>
+        </li> 
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Affiliated Colleges & Institutions</a>
+     <ul class="dropdown-menu">
+        <li><a href="affiliated-colleges-institutions.php">Affiliated Colleges</a></li>
+        <li><a target="_Blank" href="http://services.nu.edu.bd/nu-app/college/">College Profile</a></li>
+        <li><a target="_Blank" href="http://nu.ac.bd/collegemap/">College Map</a></li>
+        <li><a href="college-ranking-2015.php">College Ranking 2015</a></li>
+        <li><a href="college-ranking-2016.php">College Ranking 2016</a></li>
+        <li><a href="college-ranking-2017.php">College Ranking 2017</a></li>
+        <li><a href="Inter-college-Cultural-Competition.php">Inter-college Cultural Competition</a></li>
+     </ul>
+    </li>   
+    <li><a href="admission-national-university.php">Admission</a></li>
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Syllabus</a>
+      <ul class="dropdown-menu">
+        <li ><a href="syllabus-honours.php">Syllabus (Honours)</a></li>
+        <li><a href="syllabus-degree-pass.php">Syllabus (Degree Pass)</a></li>
+        <li><a href="syllabus-masters.php">Syllabus (Masters)</a></li>
+        <li><a href="syllabus-professionals.php">Syllabus (Professionals)</a></li>
+        <li><a href="preliminary-master.php">Preliminary to Master's</a></li>
+      </ul>
+    </li>
+    <li><a target="_Blank" href="http://nu.ac.bd/Academic-Calender-List.php">Academic Calender</a></li>
+    <li class="dropdown">
+     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academic Calendar Related </a>
+      <ul class="dropdown-menu">
+        <li class="dropdown">
+          <a  class="dropdown-toggle" data-toggle="dropdown"   href="academic-notice.php">Academic Calendar </a>
+          <ul class="dropdown-menu">
+            <li> <a target="_Blank" href="calender/Academinc_Calender_2013-2014.pdf" >Academic Calendar (Honours)</a>
+            </li>
+
+          <li><a  target="_Blank"  href="calender/Academinc_Calender_2013-2014.pdf">Academic Calendar (Degree pass) </a>
+          </li>
+            <li><a  href="#">Academic Calendar (Masters) </a></li>
+            <li><a  href="#">Academic Calendar (Professionals)</a></li>
+          </ul>
+        </li>
+        <li><a  class="test"  href="academic-notice.php">Academic Notice</a></li>
+        <li><a  class="test"  href="crush-program.php">Crush Program</a></li>
+      </ul>
+    </li>
+    <li><a href="online-form-fill-up.php">Online Form Fill-up</a></li>
+    <li><a href="online-marks-entry.php">Online Marks Entry</a></li>
+    <li><a href="institution.php">Institute</a></li>   
+           
+    </ul>
+</li>
+<!-- End Academic  -->
+<!--  Start Facilites -->
+<li class="dropdown megamenu-fw">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Office</a>
+<ul class="dropdown-menu megamenu-content animated fadeOutUp" role="menu" style=" opacity: 1;">
+    <li>
+        <div class="row">
+            <div class="col-menu col-md-3 on">
+                <h6 class="title"><a style="color: #fff;  font-weight: bold ; font-size:15px;" href="vice-chancellor-office.php">Vice-Chancellor</a></h6>
+                <div class="content fadeInDown" style="display: block;">
+                    <ul class="menu-col">
+                        <li><a href="Registrar-office.php">Registrar</a></li>
+                        <li><a href="planning-development.php">Planning & Development</a></li>
+                        <li><a href="public-relations.php">Public Relations</a></li>
+                        <li><a href="proctor-office.php">Proctor Office</a></li>
+                        <li><a href="engineering-department-office.php">Engineering Section</a></li>
+                    </ul>
+                </div>
+            </div><!-- end col-3 -->
+            <div class="col-menu col-md-3">
+                <h6 class="title"><a style="color: #fff;  font-weight: bold ; font-size:15px;" href="Pro-Vice-Chancellor-office-admin.php">Pro Vice-Chancellor</a></h6>
+                <div class="content" style="display: none;">
+                    <ul class="menu-col">
+                       <li><a href="exam-controller-office.php">Controller of Exam</a></li>
+                       <li><a href="inspector-of-college.php">Inspector of Colleges</a></li>
+                       <li><a href="internal-audit-office.php">Internal Audit</a></li>
+                       <li><a href="publication-section.php">Publication Section</a></li>
+                       
+                       <li><a href="physical-education.php">Physical Education</a></li>
+                    </ul>
+                </div>
+            </div><!-- end col-3 -->
+            <div class="col-menu col-md-3">
+               <h6 class="title"><a style="color: #fff;  font-weight: bold ; font-size:15px;" href="Pro-Vice-Chancellor-academic.php">Pro Vice-Chancellor</a></h6>                
+                <div class="content" style="display: none;">
+                    <ul class="menu-col">
+                        <li><a href="ict-department.php">ICT Department</a></li>
+                        <li><a href="transport-department.php">Transport </a></li>
+                        <li><a href="medical-services-department.php">Medical Centre</a></li>
+                        <li><a href="different-association.php">Regional Centre</a></li>
+                    </ul>
+                </div>
+            </div>    
+            <div class="col-menu col-md-3">
+              <h6 class="title"> <a href="Treasurer-office.php" style="color: #fff; font-weight: bold ; font-size:15px;">Treasurer</a> </h6>
+                <div class="content" style="display: none;">
+                    <ul class="menu-col">
+                      <li><a href="library-department.php">Library</a></li>
+                      <li><a href="finance-account.php">Finance & Accounts</a></li>
+                        
+                       <li><a href="bangobandhu-institutions.php">Muktijudho, Bangabandhu & Bangladesh Research Institute</a></li>                      
+                    </ul>
+                </div>
+            </div><!-- end col-3 -->
+            <!-- <div class="col-menu col-md-2">
+              <h6 class="title"> <a href="Registrar-office.php" style="color: #fff; font-weight: bold ; font-size:15px;">Registrar</a> </h6>
+                <div class="content" style="display: none;">
+                  <ul class="menu-col">
+                   <li><a href="nu-council.php">Council</a></li>
+                   <li><a href="legal-cell.php">Legal Cell</a></li>
+                   <li><a href="establishment-1.php">Establishment (1)</a></li>
+                   <li><a href="establishment-2.php">Establishment (2)</a></li>
+                   <li><a href="purchase.php">Purchase</a></li>
+                      
+                  </ul>
+                </div>
+            </div> --><!-- end col-3 -->
+        </div><!-- end row -->
+    </li>
+</ul>
+</li>
+
+<!-- End Facilities -->
+
+<li class="dropdown">
+ <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Notice</a>
+     <ul class="dropdown-menu">
+        <li><a href="recent-news-notice.php">Recent News / Notice</a></li>
+        <li><a href="examination-notice.php">Examination Notice</a></li>
+        <li><a href="admission-notice.php">Admission Notice</a></li>
+        <li><a href="notice-news-press-release.php">News / Press Release</a></li>
+        <li><a href="notice-general.php">General Notice</a></li>
+        <li><a href="notice-office-order.php">Office Order</a></li>
+        <li><a href="notice-noc-passport-visa.php">NOC (Passport & VISA) </a></li>
+        <li><a href="notice-government-office-order.php">Government Office Order</a></li>
+        <li><a href="notice-tender.php">Tender Notice </a></li>
+        <li><a href="notice-career-opportunities.php">Career Opportunities</a></li>
+        <li><a href="download-form-instruction.php">Download Form & Instruction </a></li>
+        <li><a href="national-methode.php">জাতীয় শুদ্ধাচার কৌশল বাস্তবায়নের কমিটিসমূহ  </a></li>
+
+    </ul>
+</li>
+<li><a target="_Blank" href="http://app1.nu.edu.bd/">Admission</a></li>
+
+<li class="dropdown">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Training</a>
+    <ul class="dropdown-menu">
+        <li><a href="teachers-training-information.php">Teachers Training Information</a></li>
+        <li><a target="_Blank" href="http://202.51.179.44:8085/apex/f?p=102:LOGIN_DESKTOP:5695950507913:">TTIS – Teachers Training Information System</a></li>
+        <li><a href="training-notice.php">Training Notice</a></li>
+    </ul>
+</li>
+<li class="dropdown">
+    <a href="http://www.cedp.gov.bd/" class="dropdown-toggle" data-toggle="dropdown" >CEDP</a>
+    <ul class="dropdown-menu">
+	     <li><a target="_Blank" href="http://www.cedp.gov.bd/">CEDP Site</a></li>
+    </ul>
+</li>
+<!-- Publication start -->
+<li class="dropdown megamenu-fw">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Publications</a>
+<ul class="dropdown-menu megamenu-content animated fadeOutUp" role="menu" style="display: none; opacity: 1;">
+    <li>
+        <div class="row">
+            <div class="col-menu col-md-8 on">
+                <h6 class="title"  style="color: #fff; font-weight: bold; text-shadow: 1px 1px 1px #333; font-size: 16px;">The National University Journal</h6>
+<div class="content fadeInDown" style="display: block;">
+<ul class="menu-col">
+<li><a  href="nu-journal-of-humanities-social-sciences-business-studies-Vol.4_&_5.php">The NU Journal of Humanities, Social Sciences & Business Studies ( Vol. 4 & 5, No. 1)</a></li>
+<li><a  href="nu-journal-of-humanities-social-sciences-business-studies-vol.3No_1.php">The NU Journal of Humanities, Social Sciences & Business Studies ( Vol. 3, No. 1)</a></li>
+<li><a  href="nu-journal-humanities-social-sciences-business-studies-vol.2_no_2.php">The NU Journal of Humanities, Social Sciences and  Business Studies (Vol. 2, No. 2)</a></li>
+    <li><a  href="nu-journal-humanities-social-sciences-business-studies-vol.2no.1.php">The National University Journal of Humanities, Social Sciences and Business Studies (Vol. 2, No. 1)</a></li>
+    <li><a  href="nu-journal-humanities-social-sciences-business-studies-vol.1no.2.php">The National University Journal of Humanities, Social Sciences and Business Studies (Vol. 1,  No. 2)</a></li>
+    <li><a  href="nu-journal-humanities-social-sciences-business-studies-vol.1-no.1.php">The National University Journal of Humanities, Social Sciences & Business Studies (Vol.1, No.1)</a></li>
+  <li><a  href="NATIONAL UNIVERSITY JOURNAL OF SCIENCE Vol. 3-5_2018.php">NATIONAL UNIVERSITY JOURNAL OF SCIENCE Vol. 3-5, 2018</a></li>
+  <li><a  href="nu-journal-science-vol.2-no.1.php">The National University Journal of Science Vol.2, No.1 </a></li>
+  <li><a  href="nu-journal-science-vol.1-no.2.php">The National University Journal of Science (Vol.1, No.2)</a></li>
+  <li><a  href="nu-journal-science-vol.1-no.1.php">The National University Journal of Science (Vol.1, No.1)</a></li>
+                    </ul>
+                </div>
+            </div><!-- end col-3 -->
+            <div class="col-menu col-md-4">
+                <h6 class="title" style="color: #fff; font-weight: bold; text-shadow: 1px 1px 1px #333; font-size: 16px;">National university Publication</h6>
+                <div class="content" style="display: none;">
+                    <ul class="menu-col">
+         <li><a href="journals.php">The National University Journal</a></li>
+         <li><a href="samachar-archive.php">Samachar / Newsletter</a></li>
+        <li><a href="annual-report.php">Annual Report</a></li>
+        <li><a href="annual-budget.php">Annual Budget</a></li>
+        <li><a href="senate-meeting.php">Senate Meeting</a></li>
+        <li><a href="general-senate-speech.php">&nbsp;&nbsp; -- General Senate Speech</a></li>
+        <li><a href="special-senate-speech.php">&nbsp;&nbsp; -- Special Senate Speech</a></li>
+        <li><a href="research-articles.php">Research Articles</a></li>
+        <li><a href="related-notice.php">Related Documents</a></li>
+        <li><a href="publication.php">Publication National University </a></li>
+        <li><a href="publication-archives.php">Archives</a></li>
+                    </ul>
+                </div>
+            </div><!-- end col-3 -->
+        </div><!-- end row -->
+    </li>
+</ul>
+</li>
+<!-- Start Services  -->
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+ <ul class="dropdown-menu">
+  <li><a href="one-stop-services-centre.php">One Stop Services Centre</a></li>
+  <li><a target="_Blank" href="http://202.51.179.44:8085/apex/f?p=101:LOGIN_DESKTOP:25404398601656:::::">College Monitoring Information Syestem (CMIS)</a></li>
+  <li><a target="_Blank" href="http://202.51.179.41/nu-app">Student Login</a></li>
+  <li><a target="_Blank" href="http://202.51.179.41/nu-app/collegelogin">College Login</a></li>
+  <li><a target="_Blank" href="http://202.51.179.44:8085/apex/f?p=100:LOGIN_DESKTOP:10531243581962:::::">TMIS Login</a></li>
+  <li><a  target="_Blank" href="http://202.51.179.36/PMS/Default.aspx">Sonali Seba</a></li>
+  <li><a  target="_Blank" href="http://services.nu.edu.bd/nu-app/college/">College Profile</a></li>
+  <li><a  target="_Blank" href="http://202.51.179.44:8085/apex/f?p=102:LOGIN_DESKTOP:5695950507913:">Teachers Training Information System (TTIS)</a></li>
+  <li><a  href="noticeinstruction.php"> Notice/Instruction</a></li> 
+  <li><a  target="_Blank" href="https://mail.nu.edu.bd/"> Webmail</a></li> 
+  <li><a  href="application-certificate-transcript-migration.php">Application for certificate, transcript & migration</a></li> 
+  <li><a  target="_Blank" href="http://202.51.179.36/PAMS/Dormitory/Reservation.aspx">Dormitory Reservation</a></li>
+</ul>
+</li>
+
+   </ul>
+  </div><!-- /.navbar-collapse -->         
+ </nav>
+    <!-- End Navigation -->
+      </div>
+     </div>
+     </div>
+ <!-- container -->
+</header>
+</div>
+<!-- Header top Section --><section class="common-info">
+  <div class="container">
+    <div class="inner-box">
+         <div class="row">
+            <br>
+  <!-- End sidebar -->
+  <div class="col-md-9 col-lg-9  col-sm-9 col-xs-12">
+      <div class="archive-box sidebar-common">               
+         <div class="notice-box document-box">
+        <h1 class="page-title">Recent News / Notice</h1>      </div>
+    <table class="table-hover table-bordered table-responsive table table-condensed table-striped " id="myTable">
+    <thead>
+      <tr>
+         <th style="text-align: center;"><b>No.</b></th>
+         <th style="text-align: center;"><b>Title </b></th>
+         <th style="width: 12%; text-align: center;"><b>Post Date</b></th>
+         <th style="width: 7%; text-align: center;"><b>Download</b></th>
+      </tr>
+    </thead>
+      <tbody>
+         <tr>
+ <td style="padding: 6px 9px; text-align: center;"></td>
+  <td><div class="news-item"><a target="_Blank" href="uploads/2018/notice_442_pub_date_24022020.pdf">২০১৮ সালের এমএ, এমএসএস, এমবিএ ও এমএসসি শেষ পর্ব পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। </a></div></td>
+  <td style="padding: 10px 5px; text-align: center;     font-size: 12px;"><b class="dated-document">February 24, 20                     </td>
+  <td style="padding: 10px 7px; text-align: center;"><a target="_Blank" href="uploads/2018/notice_442_pub_date_24022020.pdf"><img src="assets/images/pdf.jpg" alt=২০১৮ সালের এমএ, এমএসএস, এমবিএ ও এমএসসি শেষ পর্ব পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। " title="২০১৮ সালের এমএ, এমএসএস, এমবিএ ও এমএসসি শেষ পর্ব পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। " width="25px" height="25px"></a></td>
+</tr>
+        <tr>
+ <td style="padding: 6px 9px; text-align: center;"></td>
+  <td><div class="news-item"><a target="_Blank" href="uploads/2018/notice_0000_pub_date_23022020.pdf">২০১৮ সালের পোস্ট গ্রাজুয়েট ডিপ্লোমা ইন মিউজিক ব্যবহারিক পরীক্ষার কেন্দ্র তালিকা সংক্রান্ত বিজ্ঞপ্তি। </a></div></td>
+  <td style="padding: 10px 5px; text-align: center;     font-size: 12px;"><b class="dated-document">February 23, 20                     </td>
+  <td style="padding: 10px 7px; text-align: center;"><a target="_Blank" href="uploads/2018/notice_0000_pub_date_23022020.pdf"><img src="assets/images/pdf.jpg" alt=২০১৮ সালের পোস্ট গ্রাজুয়েট ডিপ্লোমা ইন মিউজিক ব্যবহারিক পরীক্ষার কেন্দ্র তালিকা সংক্রান্ত বিজ্ঞপ্তি। " title="২০১৮ সালের পোস্ট গ্রাজুয়েট ডিপ্লোমা ইন মিউজিক ব্যবহারিক পরীক্ষার কেন্দ্র তালিকা সংক্রান্ত বিজ্ঞপ্তি। " width="25px" height="25px"></a></td>
+</tr>
+
+ <tr>
+ <td style="padding: 6px 9px; text-align: center;"></td>
+  <td><div class="news-item"><a target="_Blank" href="uploads/2018/notice_2170_pub_date_23022020.pdf">মেডিকেল অফিসার পদে নিয়োগের নিমিত্তে অনুষ্ঠিত লিখিত পরীক্ষায় উত্তীর্ণ  প্রার্থীদের ফলাফল এবং মৌখিক পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। </a></div></td>
+  <td style="padding: 10px 5px; text-align: center;     font-size: 12px;"><b class="dated-document">February 23, 20                     </td>
+  <td style="padding: 10px 7px; text-align: center;"><a target="_Blank" href="uploads/2018/notice_2170_pub_date_23022020.pdf"><img src="assets/images/pdf.jpg" alt=মেডিকেল অফিসার পদে নিয়োগের নিমিত্তে অনুষ্ঠিত লিখিত পরীক্ষায় উত্তীর্ণ  প্রার্থীদের ফলাফল এবং মৌখিক পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। " title="মেডিকেল অফিসার পদে নিয়োগের নিমিত্তে অনুষ্ঠিত লিখিত পরীক্ষায় উত্তীর্ণ  প্রার্থীদের ফলাফল এবং মৌখিক পরীক্ষার সময়সূচী সংক্রান্ত বিজ্ঞপ্তি। " width="25px" height="25px"></a></td>
+</tr>
+
+
+      </tbody>
+    </table>
+    <hr>
+             
+   
+         </div>
+         </div>
+         <div class="col-sm-3 col-md-3">
+             <div class="sidebar-common">
+         <h2 class="widget-title">Call Center Number</h2>
+     <div class="textwidget">
+      <div class="help-center"><b><i class="fa fa-phone"></i>&nbsp;&nbsp;<a href="mailto:16429"> 16429 </a></b> <br>
+         <b> <i class="fa fa-phone"></i>&nbsp;&nbsp;<a href="mailto:১৬৪২৯"> ১৬৪২৯ </a></b>
+      </div>
+   </div>
+   <div class="notice-category">
+      <section id="nav_menu-20" class="widget widget_nav_menu">
+         <h2 class="widget-title">Notice Section</h2>
+         <div class="menu-notice-categories-container">
+            <ul id="menu-notice-categories" class="menu">
+               <li id="menu-item-5655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5655"><a href="recent-news-notice.php">Recent News / Notice</a></li>
+               <li id="menu-item-5656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5656"><a href="examination-notice.php">Examination Notice</a></li>
+               <li id="menu-item-5657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5657"><a href="admission-notice.php">Admission Notice</a></li>
+               <li id="menu-item-5658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5658"><a href="notice-news-press-release.php">News / Press Release</a></li>
+               <li id="menu-item-5659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5659"><a href="notice-general.php">General Notice</a></li>
+               <li id="menu-item-5660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5660"><a href="notice-government-office-order.php">Government Office Order</a></li>
+               <li id="menu-item-5661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5661"><a href="notice-noc-passport-visa.php">NOC (Passport &amp; VISA)</a></li>
+               <li id="menu-item-5662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5662"><a href="notice-office-order.php">Office Order</a></li>
+               <li id="menu-item-5663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5663"><a href="notice-tender.php">Tender Notice</a></li>
+               <li id="menu-item-5664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5664"><a href="notice-career-opportunities.php">Career Opportunities</a></li>
+               <li id="menu-item-5665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5665"><a href="notice-download-form-instruction.php">Download Form &amp; Instruction</a></li>
+            </ul>
+         </div>
+      </section>
+<div class="important-ofices-sidebar Quick Link">
+<section id="nav_menu-14" class="widget widget_nav_menu">
+  <h2 class="widget-title">National University Offices</h2>
+  <div class="menu-facilities-sidebar-container">
+     <ul id="menu-facilities-sidebar" class="menu">
+       <li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a style=" font-weight: bold ; font-size:15px;" href="vice-chancellor-office.php">Vice-Chancellor</a></li>
+       <li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a style=" font-weight: bold ; font-size:15px;" href="Pro-Vice-Chancellor-office-admin.php">Pro Vice-Chancellor</a></li>
+       <li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a style=" font-weight: bold ; font-size:15px;" href="Pro-Vice-Chancellor-academic.php">Pro Vice-Chancellor</a></li>
+       <li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a href="Treasurer-office.php" style=" font-weight: bold ; font-size:15px;">Treasurer</a></li>
+        <li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a href="Registrar-office.php">Registrar </a></li>
+        <li id="menu-item-8363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8363"><a href="exam-controller-office.php">Controller of Exam</a></li>
+         <li id="menu-item-8345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8345"><a href="ict-department.php">ICT Department</a></li>
+         <li id="menu-item-8344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8344"><a href="library-department.php">Library</a></li>
+         <li id="menu-item-11235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11235"><a href="planning-development.php">Planning &amp; Development</a></li>
+
+         <li id="menu-item-11236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11236"><a href="inspector-of-college.php">Inspector of College</a></li>
+        <li id="menu-item-12408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12408"><a href="public-relations.php">Public Relations</a></li>
+        <li id="menu-item-8346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8346"><a href="transport-department.php">Transport</a></li>
+        <li id="menu-item-8346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8346"><a href="finance-account.php">Finance &amp; Accounts</a></li>
+        <li id="menu-item-11238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11238"><a href="proctor-office.php">Proctor Office</a></li>
+        <li id="menu-item-8360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8360"><a href="engineering-department-office.php">Engineering Section</a></li>
+        <li id="menu-item-11237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11237"><a href="internal-audit-office.php">Internal Audit</a></li>
+       <li id="menu-item-8348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8348"><a href="bangobandhu-institutions.php">Muktijudho, Bangabandhu & Bangladesh Research Institute</a></li>
+       <li id="menu-item-8351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8351"><a href="medical-services-department.php">Medical Centre</a></li>
+
+      <li id="menu-item-8353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8353"><a href="physical-education.php">Physical Education</a></li>
+      
+      <li id="menu-item-8354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8354"><a href="different-association.php">Regional Centre</a></li>
+        <li id="menu-item-8369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8369"><a href="publication-section.php">Publication Section</a></li>
+      <li id="menu-item-8368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8368"><a href="city-office.php">City Office</a></li>
+     </ul>
+  </div>
+</section>
+</div>
+</div>   
+         </div>     
+      </div>
+      </div>
+<!--  End Arichve -->
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--  Footer Top END  section  -->
+<section class="footer-top-wrapper">
+     <div class="container">
+        <div class="row">
+           <div class="inner-box-footer footer-link">
+              <section id="black-studio-tinymce-6" class="col-md-3 col-lg-3 col-sm-3 col-xs-12 widget widget_black_studio_tinymce">
+                 <h2 class="widget-title">Campus Map</h2>
+                 <div class="textwidget">
+                    <div class="gmap">
+                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3646.2819624180697!2d90.37758961445068!3d23.95046758449112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c4ac7e91b29f%3A0xe707d27208e45689!2sNational+University!5e0!3m2!1sen!2sbd!4v1504203437092" width="100%" height="230"  frameborder="0" style="border:0" allowfullscreen></iframe></p>
+                       <p>Click here for an <a style="color:#faa813" target="_Blank" href="https://www.google.com/maps?ll=23.950468,90.379778&z=15&t=m&hl=en-US&gl=BD&mapclient=embed&cid=16647505934815614601">expanded view</a>
+                    </div>
+                 </div>
+              </section>
+              <section id="nav_menu-15" class="col-md-3 col-lg-3 col-sm-3 col-xs-12 widget widget_nav_menu">
+                 <h2 class="widget-title">Important Information</h2>
+                 <div class="menu-footer-top-menu-container">
+                    <ul id="menu-footer-top-menu" class="menu">
+                       <li id="menu-item-8337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8337"><a href="samachar-archive.php">NU Samachar</a></li>
+                       <li id="menu-item-9723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9723"><a href="admission-national-university.php">Admission – National University</a></li>
+                       <li id="menu-item-9677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9677"><a href="projects.php">Projects</a></li>
+                       <li id="menu-item-10065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10065"><a href="training-notice.php">Training Notice</a></li>
+                       <li id="menu-item-9682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9682"><a href="notice-office-order.php">Office Order Notice</a></li>
+                       <li id="menu-item-9679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9679"><a href="related-notice.php">Research &#038; Publication Related Notice</a></li>
+                       <li id="menu-item-9680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9680"><a href="silver-jubilee.php">Silver Jubilee</a></li>
+                       <li id="menu-item-10066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10066"><a href="annual-report.php">Annual Report</a></li>
+                       <li id="menu-item-10067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10067"><a href="application-certificate-transcript-migration.php">Certificate, transcript &#038; migration</a></li>
+                    </ul>
+                 </div>
+              </section>
+              <section id="nav_menu-16" class="col-md-3 col-lg-3 col-sm-3 col-xs-12 widget widget_nav_menu">
+                 <h2 class="widget-title">Academic Information</h2>
+                 <div class="menu-academic-footer-menu-container">
+                    <ul id="menu-academic-footer-menu" class="menu">
+                       <li id="menu-item-11302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11302"><a href="faculty-social-science.php">NU Faculty</a></li>
+                       <li id="menu-item-9842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9842"><a href="on-campus-program.php">On Campus Program</a></li>
+                       <li id="menu-item-8340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8340"><a href="online-service.php">Online Service</a></li>
+                       <li id="menu-item-9687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9687"><a href="academic-notice.php">Academic Notice</a></li>
+                       <li id="menu-item-9683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9683"><a href="admission-notice.php">Admission Notice</a></li>
+                       <li id="menu-item-9685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9685"><a href="online-marks-entry.php">Online Marks Entry</a></li>
+                       <li id="menu-item-9686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9686"><a href="online-form-fill-up.php">Online Form Fill-up</a></li>
+                       <li id="menu-item-9688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9688"><a href="uploads/2017/12/Crush-Programme.gif">Crush Program</a></li>
+                       <li id="menu-item-9840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9840"><a target="_blank" href="http://nu.ac.bd/uploads/2018/Academic%20Calender%202019.pdf">Academic Calender</a></li>
+                       
+                       <li id="menu-item-9840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9840"><a target="_blank" href="uploads/2017/09/Academinc_Calender_2013-2014.pdf">Calendar (Honours &#038; Degree)</a></li>
+                    </ul>
+                 </div>
+              </section>
+              <section id="black-studio-tinymce-5" class="col-md-3 col-lg-3 col-sm-3 col-xs-12 widget widget_black_studio_tinymce">
+                 <h2 class="widget-title">Contact Us</h2>
+                 <div class="textwidget">
+                    <p>Registrar<br />
+                       Administration Building<br />
+                       National University , Bangladesh<br />
+                       <strong>Tel</strong> - +880-2-9291016<br />
+                       <strong>Fax</strong> - +880-2-9291037<br />
+                       <strong>Email </strong>- <a style="color:#fff" href="mailto:registrar@nu.edu.bd">registrar@nu.edu.bd</a>
+                    </p>
+                    <div class="social-box">
+                       <ul class="header-social-icon">
+                          <li class="left">
+                             <ul class="social-icon">
+                                <li class="fa-facebookicone"><a target="_Blank" href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li class="fa-facebookicone"><a target="_Blank" href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li class="fa-facebookicone"><a target="_Blank" href="video-gallery.php"><i class="fa fa-youtube"></i></a></li>
+                             </ul>
+                          </li>
+                       </ul>
+                    </div>
+                 </div>
+              </section>
+           </div>
+      </div>
+</section>
+<section class="footer-copyright-section  common-box">
+<div class="copyright-box">
+<div class="container-fluid">
+<div class="container">
+	  <div class="inner-box">
+     <div class="row">
+      <div class="col-md-7 col-lg-7  col-sm-7 col-xs-12">
+      <div class="left-footer">
+        <p><strong>PABX</strong>: +880-2-9291018-23, 880-2-9291055-64 (Auto Hunting) |&nbsp;<strong>Fax :</strong>&nbsp;+880-2-9291037, 9291050, 9291044 | &nbsp; <strong>Web</strong><a target="_blank" href="http://www.nu.ac.bd/">:www.nu.ac.bd</a> |&nbsp;<strong>E-mail</strong>: <span id="cloak37021"><a href="mailto:registrar@nu.edu.bd">registrar@nu.edu.bd</a></span></p>
+
+<div class="footer-menu">
+  <ul class="menu-divmenu">
+    <li class="first"><a href="gallery-events.php"><span>Event Gallery </span></a></li>
+    <li class="first"><a href="gallery.php"><span>Image Gallery</span></a></li>
+    <li class="first"><a href="video-gallery.php"><span>Video Gallery</span></a></li>
+    <li><a href="sitemap.php"><span>Sitemap</span></a></li>
+    <li><a href="contact.php"><span>Contact </span></a></li>
+    <li><a class="" href="http://mail.nu.edu.bd/" target="_blank"><span>Webmail</span></a></li>
+    <li><a class="" href="https://nu-bd.academia.edu/" target="_blank"><span>Academia</span></a></li>
+    <li><a class="" href="faq.php"><span>FAQ</span></a></li>
+  </ul>
+</div>
+</div>
+</div>
+
+<div class="col-md-5 col-lg-5  col-sm-5 col-xs-12">
+<div class="right-footer">
+  <p>&copy; National University Bangladesh.<br> Planning & Implementing: Prof. Dr. Nasiruddin, Dean (UG). Technical Assistance: ICT Dept. National University.<span style="font-size: 12.1599998474121px; line-height: 1.3em;">&nbsp;Please remark: </span><span id="cloak99695"><a href="mailto:webmaster@nu.edu.bd" title=""> webmaster</a> <br></p>
+  </div>
+  </div>
+</div>
+</div>
+</div>
+<div class="pull-right top" style=""><a href="#top" style="color:#fff;"><i class="fa fa-long-arrow-up"></i></a>
+</div>
+</div>
+</div>
+</section>
+<!--  Footer botom END  section  -->
+<!-- End wrapper-outer --> 	 
+</div> 
+<!-- Library jQuery -->
+<script src="assets/js/jquery-1.11.1.min.js"></script>
+<script src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="assets/js/tabs.js"></script>
+<script src="assets/js/jquery.bxslider.min.js"></script>
+<!-- Bootstrap JavaScript -->
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<!-- carousel.min JavaScript -->
+<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+<script src="assets/js/scroling.js"></script>
+<script src="assets/js/bootsnav.js"></script>  
+<script type="text/javascript" src="assets/js/jquery.dataTables.js"></script>
+<script>
+var _rys = jQuery.noConflict();
+_rys(document).ready(function(){
+    
+    //Apply the datatables plugin to your table
+    _rys('#myTable').DataTable();
+    
+});
+</script>
+</body>
+</html>
