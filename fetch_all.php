@@ -24,7 +24,7 @@ if($is_notice_updated){
 	$new_notification_slice = new_notification_slice($old_notice, $current_notice);
 
 	//downlod the pdf
-	download_pdf_foreach_notification_slice($new_notification_slice);
+	// download_pdf_foreach_notification_slice($new_notification_slice);
 
 	//TODO: save pdf download link to db
 
@@ -41,8 +41,10 @@ if($is_notice_updated){
 	//save this current file
 	//so we will not trigger has updated for this version of NU.
 	$current_notice = notice_as_json($page);
-	update_gdrive_json($current_notice, '1qpriIPSvPOPjY67HOJ_OI7hyMNSqI_gf');
-	file_put_contents(NOTICE_JSON_FILENAME, $current_notice);
+	// update_gdrive_json($current_notice, '1qpriIPSvPOPjY67HOJ_OI7hyMNSqI_gf');
+	if(strlen($current_notice)>2){
+		file_put_contents(NOTICE_JSON_FILENAME, $current_notice);
+	}
 	//TODO: notification to phone
 
 }
